@@ -1,1 +1,1 @@
-<h1><em>Soluções do HackerRank / Uri Judge.<em></h1><hr>
+<h1><em>Soluções do HackerRank.<em></h1><hr>
